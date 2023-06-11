@@ -4,7 +4,7 @@
 
 ## Description
 
-A simple python script to download YouTube videos in different formats and qualities. It uses the yt_dlp library to download the videos. It also has a GUI made using gradio.
+A simple python script to download YouTube videos in different formats and qualities. It uses the [yt_dlp](https://github.com/yt-dlp/yt-dlp) library to download the videos. It also has a GUI made using [gradio](https://gradio.app/).
 
 ## How to use
 
