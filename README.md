@@ -14,6 +14,6 @@ pip install -r requirements.txt
 ```
 ### run demo
 ``` bash
-python3 src/main.py
+python3 app.py
 ```
 ![](assets/image.png)
