@@ -1,4 +1,4 @@
 proxy: 127.0.0.1
-port: 1080
+port: 10809
 format: 'best'
-output_path: 'not set'
+output_folder: './download/1.mp4'
